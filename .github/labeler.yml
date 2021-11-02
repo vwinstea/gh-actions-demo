@@ -1,0 +1,5 @@
+new-npm:
+  - package.json
+
+frontend:
+  - src/**/*.js
